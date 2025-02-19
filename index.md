@@ -3,7 +3,7 @@
 
 # Conor Finlay Lab
 
-Cellular immunology, single cell omcis. 
+Cellular immunology, single cell omics. 
 
 {% include section.html %}
 
