@@ -1,9 +1,9 @@
 ---
 ---
 
-# Conorisco's Website
+# Conor Finlay Lab
 
-An engaging 1-3 sentence description of your lab.
+Cellular immunology, single cell omcis. 
 
 {% include section.html %}
 
