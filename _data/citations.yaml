@@ -26,6 +26,7 @@
   date: '2024-09-10'
   link: https://doi.org/g85krw
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/all.16127
@@ -47,6 +48,7 @@
   date: '2024-04-17'
   link: https://doi.org/g6b2cz
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.22541/au.172487286.61322662/v1
@@ -66,6 +68,7 @@
   date: '2024-08-28'
   link: https://doi.org/g85krx
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.immuni.2024.02.013
@@ -77,6 +80,7 @@
   date: '2024-03-01'
   link: https://doi.org/g85krz
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41590-023-01688-7
@@ -108,6 +112,7 @@
   date: '2023-12-15'
   link: https://doi.org/gs89xq
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.immuni.2023.02.016
@@ -136,6 +141,7 @@
   date: '2023-05-01'
   link: https://doi.org/gr2q3r
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-2689141/v1
@@ -165,6 +171,7 @@
   date: '2023-03-22'
   link: https://doi.org/g85kr2
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.03.02.527395
@@ -191,6 +198,7 @@
   date: '2023-03-02'
   link: https://doi.org/g85kr3
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.pt.2022.09.013
@@ -213,6 +221,7 @@
   date: '2022-12-01'
   link: https://doi.org/g85kr4
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.12.17.472661
@@ -237,6 +246,7 @@
   date: '2021-12-19'
   link: https://doi.org/gsxv6x
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:34556884
@@ -257,6 +267,7 @@
   date: '2021-09-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34556884
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4049/jimmunol.2001225
@@ -270,6 +281,7 @@
   date: '2021-04-01'
   link: https://doi.org/gh2vm5
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4049/jimmunol.1901321
@@ -284,6 +296,7 @@
   date: '2020-10-01'
   link: https://doi.org/g85kr5
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:32145033
@@ -296,6 +309,7 @@
   date: '2020-03-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32145033
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0225899
@@ -309,6 +323,7 @@
   date: '2019-12-05'
   link: https://doi.org/g85kr6
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/fimmu.2019.01266
@@ -321,6 +336,7 @@
   date: '2019-06-07'
   link: https://doi.org/g85kr7
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.7554/eLife.30947
@@ -341,6 +357,7 @@
   date: '2018-01-04'
   link: https://doi.org/gcrs7d
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:29234010
@@ -360,6 +377,7 @@
   date: '2017-12-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29234010
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/pim.12460
@@ -377,6 +395,7 @@
   date: '2017-09-06'
   link: https://doi.org/g85kr8
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:26673140
@@ -395,6 +414,7 @@
   date: '2015-12-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26673140
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/mi.2014.125
@@ -411,6 +431,7 @@
   date: '2015-09-01'
   link: https://doi.org/f7n3wp
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:25515629
@@ -427,6 +448,7 @@
   date: '2014-12-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25515629
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:24712468
@@ -440,6 +462,7 @@
   date: '2014-05-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24712468
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:22211712
@@ -456,6 +479,7 @@
   date: '2012-01-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22211712
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:19587018
@@ -471,6 +495,7 @@
   date: '2009-07-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/19587018
   orcid: 0000-0001-8285-0903
+  conorisco: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
