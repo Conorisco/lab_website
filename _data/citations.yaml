@@ -1,174 +1,476 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1172/jci.insight.171659
+  title: Emergence of dysfunctional neutrophils with a defect in arginase-1 release
+    in severe COVID-19
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Amrita Dwivedi
+  - Aisling Ui Mhaonaigh
+  - Makala Carroll
+  - Bahareh Khosravi
+  - Isabella Batten
+  - "Robert Se\xE1n Ballantine"
+  - Stuart Hendricken Phelan
+  - "Laura O\u2019Doherty"
+  - Angel Mary George
+  - Jacklyn Sui
+  - Heike C. Hawerkamp
+  - Padraic G. Fallon
+  - "Eln\xE8 Noppe"
+  - Sabina Mason
+  - Niall Conlon
+  - "Cl\xEDona Ni Cheallaigh"
+  - Conor M. Finlay
+  - Mark A. Little
+  publisher: JCI Insight
+  date: '2024-09-10'
+  link: https://doi.org/g85krw
+  orcid: 0000-0001-8285-0903
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1111/all.16127
+  title: "Lin<sup>\u2212</sup>CD117<sup>+</sup>CD34<sup>+</sup>Fc\u03B5RI<sup>+</sup>\
+    \ progenitor cells are increased in chronic spontaneous urticaria and predict\
+    \ clinical responsiveness to anti\u2010<scp>IgE</scp> therapy"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Katie Ridge
+  - Barry Moran
+  - "P. Abigail Alvarado\u2010Vazquez"
+  - Jenny Hallgren
+  - Mark A. Little
+  - Alan D. Irvine
+  - Cliona O'Farrelly
+  - Jean Dunne
+  - Conor M. Finlay
+  - Niall Conlon
+  publisher: Allergy
+  date: '2024-04-17'
+  link: https://doi.org/g6b2cz
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/au.172487286.61322662/v1
+  title: Lin-CD117+CD34+FceRI+ progenitor cells are elevated in atopic dermatitis
+  authors:
+  - Katie Ridge
+  - Barry Moran
+  - Mark Little
+  - Cliona O'Farrelly
+  - Jean Dunne
+  - Julianne Clowry
+  - Clodagh Loftus
+  - Conor M. Finlay
+  - Alan Irvine
+  - Niall Conlon
+  publisher: Authorea, Inc.
+  date: '2024-08-28'
+  link: https://doi.org/g85krx
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.immuni.2024.02.013
+  title: 'IL-4-ever young: Type 2 cytokine signaling in macrophages slows aging'
+  authors:
+  - Conor M. Finlay
+  - Judith E. Allen
+  publisher: Immunity
+  date: '2024-03-01'
+  link: https://doi.org/g85krz
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41590-023-01688-7
+  title: Human serous cavity macrophages and dendritic cells possess counterparts
+    in the mouse with a distinct distribution between species
+  authors:
+  - Jichang Han
+  - Alexandre Gallerand
+  - Emma C. Erlich
+  - Beth A. Helmink
+  - Iris Mair
+  - Xin Li
+  - Shaina R. Eckhouse
+  - Francesca M. Dimou
+  - Baddr A. Shakhsheer
+  - Hannah M. Phelps
+  - Mandy M. Chan
+  - Rachel L. Mintz
+  - Daniel D. Lee
+  - Joel D. Schilling
+  - Conor M. Finlay
+  - Judith E. Allen
+  - Claudia V. Jakubzick
+  - Kathryn J. Else
+  - Emily J. Onufer
+  - Nan Zhang
+  - Gwendalyn J. Randolph
+  publisher: Nature Immunology
+  date: '2023-12-15'
+  link: https://doi.org/gs89xq
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.immuni.2023.02.016
+  title: T helper 2 cells control monocyte to tissue-resident macrophage differentiation
+    during nematode infection of the pleural cavity
+  authors:
+  - Conor M. Finlay
+  - James E. Parkinson
+  - Lili Zhang
+  - Brian H.K. Chan
+  - Jesuthas Ajendra
+  - Alistair Chenery
+  - Anya Morrison
+  - Irem Kaymak
+  - Emma L. Houlder
+  - Syed Murtuza Baker
+  - Ben R. Dickie
+  - Louis Boon
+  - Joanne E. Konkel
+  - Matthew R. Hepworth
+  - Andrew S. MacDonald
+  - Gwendalyn J. Randolph
+  - "Dominik R\xFCckerl"
+  - Judith E. Allen
+  publisher: Immunity
+  date: '2023-05-01'
+  link: https://doi.org/gr2q3r
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-2689141/v1
+  title: In-depth comparison of human serous cavity resident macrophages and dendritic
+    cells to their murine counterparts
+  authors:
+  - Gwendalyn Randolph
+  - Jichang Han
+  - Alexandre Gallerand
+  - Emma Erlich
+  - Beth Helmink
+  - Iris Mair
+  - Xin Li
+  - Shaina Eckhouse
+  - Francesca Dimou
+  - Baddr Shakhsheer
+  - Hannah Phelps
+  - Mandy Chan
+  - Joel Schilling
+  - Conor Finlay
+  - Judith Allen
+  - Claudia Jakubzick
+  - Kathryn Else
+  - Emily Onufer
+  - Nan Zhang
+  publisher: Research Square Platform LLC
+  date: '2023-03-22'
+  link: https://doi.org/g85kr2
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.03.02.527395
+  title: "A subset of CD4+ effector memory T cells limit immunity to pulmonary viral\
+    \ infection and prevent tissue pathology via activation of latent TGF\u03B2"
+  authors:
+  - CP McEntee
+  - S Houston
+  - CM Finlay
+  - S Rossi
+  - G Liu
+  - TN Shaw
+  - J Casulli
+  - M Fife
+  - C Smedley
+  - TS Griffith
+  - M Pepper
+  - T Hussell
+  - PM Hansbro
+  - J-M Schwartz
+  - H Paidassi
+  - MA Travis
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-03-02'
+  link: https://doi.org/g85kr3
+  orcid: 0000-0001-8285-0903
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.pt.2022.09.013
+  title: 'Hydra 2022: return of the interactive conference on helminth parasitology
+    after the pandemic'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Caitlin M. McManus
+  - Tiffany Bouchery
+  - Mona Suleiman
+  - Anna O. Kildemoes
+  - Annabel Ferguson
+  - Tao Wang
+  - Conor M. Finlay
+  - Ryan Chan
+  - Tess Renahan
+  - Ananya Mukundan
+  - Gyaviira Nkurunungi
+  - Sarah D. Bobardt
+  publisher: Trends in Parasitology
+  date: '2022-12-01'
+  link: https://doi.org/g85kr4
+  orcid: 0000-0001-8285-0903
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2021.12.17.472661
+  title: Genotype and Th2 cells control monocyte to tissue resident macrophage differentiation
+    during nematode infection of the pleural cavity
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Conor M Finlay
+  - James E Parkinson
+  - Brian HK Chan
+  - Jesuthas Ajendra
+  - Alistair Chenery
+  - Anya Morrison
+  - Emma L Houlder
+  - Syed Murtuza Baker
+  - Ben Dickie
+  - Louis Boon
+  - Andrew S MacDonald
+  - Joanne E Konkel
+  - "Dominik R\xFCckerl"
+  - Judith E Allen
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2021-12-19'
+  link: https://doi.org/gsxv6x
+  orcid: 0000-0001-8285-0903
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: pmid:34556884
+  title: Reciprocal transcription factor networks govern tissue-resident ILC3 subset
+    function and identity.
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "R\xE9mi Fiancette"
+  - Conor M Finlay
+  - Claire Willis
+  - Sarah L Bevington
+  - Jake Soley
+  - Sky T H Ng
+  - Syed Murtuza Baker
+  - Simon Andrews
+  - Matthew R Hepworth
+  - David R Withers
+  publisher: Nature immunology
+  date: '2021-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34556884
+  orcid: 0000-0001-8285-0903
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.4049/jimmunol.2001225
+  title: Helminth Imprinting of Hematopoietic Stem Cells Sustains Anti-Inflammatory
+    Trained Innate Immunity That Attenuates Autoimmune Disease
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Kyle T. Cunningham
+  - Conor M. Finlay
+  - Kingston H. G. Mills
+  publisher: The Journal of Immunology
+  date: '2021-04-01'
+  link: https://doi.org/gh2vm5
+  orcid: 0000-0001-8285-0903
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.4049/jimmunol.1901321
+  title: "IL-33\u2013Stimulated Murine Mast Cells Polarize Alternatively Activated\
+    \ Macrophages, Which Suppress T Cells That Mediate Experimental Autoimmune Encephalomyelitis"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Conor M. Finlay
+  - Kyle T. Cunningham
+  - Benjamin Doyle
+  - Kingston H. G. Mills
+  publisher: The Journal of Immunology
+  date: '2020-10-01'
+  link: https://doi.org/g85kr5
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32145033
+  title: 'The immune response of inbred laboratory mice to Litomosoides sigmodontis:
+    A route to discovery in myeloid cell biology.'
+  authors:
+  - Conor M Finlay
+  - Judith E Allen
+  publisher: Parasite immunology
+  date: '2020-03-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32145033
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0225899
+  title: Diversity of a cytokinin dehydrogenase gene in wild and cultivated barley
+  authors:
+  - Beata I. Czajkowska
+  - Conor M. Finlay
+  - Glynis Jones
+  - Terence A. Brown
+  publisher: PLOS ONE
+  date: '2019-12-05'
+  link: https://doi.org/g85kr6
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2019.01266
+  title: Divergent Roles for the IL-1 Family in Gastrointestinal Homeostasis and Inflammation
+  authors:
+  - Craig P. McEntee
+  - Conor M. Finlay
+  - Ed C. Lavelle
+  publisher: Frontiers in Immunology
+  date: '2019-06-07'
+  link: https://doi.org/g85kr7
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.30947
+  title: Myeloid cell recruitment versus local proliferation differentiates susceptibility
+    from resistance to filarial infection
+  authors:
+  - Sharon M Campbell
+  - Johanna A Knipper
+  - Dominik Ruckerl
+  - Conor M Finlay
+  - Nicola Logan
+  - Carlos M Minutti
+  - Matthias Mack
+  - Stephen J Jenkins
+  - Matthew D Taylor
+  - Judith E Allen
+  publisher: eLife
+  date: '2018-01-04'
+  link: https://doi.org/gcrs7d
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29234010
+  title: Loss of the molecular clock in myeloid cells exacerbates T cell-mediated
+    CNS autoimmune disease.
+  authors:
+  - Caroline E Sutton
+  - Conor M Finlay
+  - Mathilde Raverdeau
+  - James O Early
+  - Joseph DeCourcey
+  - Zbigniew Zaslona
+  - Luke A J O'Neill
+  - Kingston H G Mills
+  - Annie M Curtis
+  publisher: Nature communications
+  date: '2017-12-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29234010
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/pim.12460
+  title: Secreted products of <i>Fasciola hepatica</i> inhibit the induction of T
+    cell responses that mediate allergy
+  authors:
+  - C. M. Finlay
+  - A. M. Stefanska
+  - M. M. Coleman
+  - H. Jahns
+  - J. P. Cassidy
+  - R. M. McLoughlin
+  - K. H. G. Mills
+  publisher: Parasite Immunology
+  date: '2017-09-06'
+  link: https://doi.org/g85kr8
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26673140
+  title: Helminth Products Protect against Autoimmunity via Innate Type 2 Cytokines
+    IL-5 and IL-33, Which Promote Eosinophilia.
+  authors:
+  - Conor M Finlay
+  - Anna M Stefanska
+  - Kevin P Walsh
+  - Patrick J Kelly
+  - Louis Boon
+  - Ed C Lavelle
+  - Patrick T Walsh
+  - Kingston H G Mills
+  publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
+  date: '2015-12-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26673140
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/mi.2014.125
+  title: A critical role for the TLR signaling adapter Mal in alveolar macrophage-mediated
+    protection against Bordetella pertussis
+  authors:
+  - N J Bernard
+  - C M Finlay
+  - G M Tannahill
+  - J P Cassidy
+  - L A O'Neill
+  - K HG Mills
+  publisher: Mucosal Immunology
+  date: '2015-09-01'
+  link: https://doi.org/f7n3wp
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25515629
+  title: A critical role for the TLR signaling adapter Mal in alveolar macrophage-mediated
+    protection against Bordetella pertussis.
+  authors:
+  - N J Bernard
+  - C M Finlay
+  - G M Tannahill
+  - J P Cassidy
+  - L A O'Neill
+  - K H G Mills
+  publisher: Mucosal immunology
+  date: '2014-12-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25515629
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24712468
+  title: 'Induction of regulatory cells by helminth parasites: exploitation for the
+    treatment of inflammatory diseases.'
+  authors:
+  - Conor M Finlay
+  - Kevin P Walsh
+  - Kingston H G Mills
+  publisher: Immunological reviews
+  date: '2014-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24712468
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22211712
+  title: "The immunoregulatory role of CD4\u207A FoxP3\u207A CD25\u207B regulatory\
+    \ T cells in lungs of mice infected with Bordetella pertussis."
+  authors:
+  - Michelle M Coleman
+  - Conor M Finlay
+  - Barry Moran
+  - Joseph Keane
+  - "P\xE1draic J Dunne"
+  - Kingston H G Mills
+  publisher: FEMS immunology and medical microbiology
+  date: '2012-01-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22211712
+  orcid: 0000-0001-8285-0903
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19587018
+  title: Infection with a helminth parasite attenuates autoimmunity through TGF-beta-mediated
+    suppression of Th17 and Th1 responses.
+  authors:
+  - Kevin P Walsh
+  - Miriam T Brady
+  - Conor M Finlay
+  - Louis Boon
+  - Kingston H G Mills
+  publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
+  date: '2009-07-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19587018
+  orcid: 0000-0001-8285-0903
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +486,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +502,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
