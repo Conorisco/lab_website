@@ -19,7 +19,7 @@ We are happy to receive inquiries related to open positions and potential collab
   include button.html
   type="email"
   text="conor.finlay@manchester.ac.uk"
-  link="conor.finlay@manchester.ac.uk""
+  link="conor.finlay@manchester.ac.uk"
 %}
 <!-- {%
   include button.html
