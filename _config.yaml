@@ -1,10 +1,10 @@
 # site properties and page defaults
 title: Conor Finlay Lab Website
-subtitle: 
-description: Cellular immunology, macrophages, single cell omics.
+subtitle: Trinity Kidney Centre, Trinity Translational Medicine Insitute, Trinity College Dublin
+description: Conor Finlay lab, immunology, macrophages, single cell RNA-sequencing, plueral, ANCA-vasculitis.
 header: images/background.jpg
 footer: images/background.jpg
-proofer: false
+proofer: true
 
 # site social media and other links
 links:
