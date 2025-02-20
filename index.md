@@ -3,7 +3,7 @@
 
 # Conor Finlay Lab
 
-Cellular immunology, single cell omics. 
+Welcome to the Finlay Lab, we're  immunologists working in both basic and translational science, studying how immune cells adapt and function in inflammatory diseases. We are located at the Trinity Translational Medicine Institute, Trinity College Dublin where we combine experimental immunology with computational approaches.
 
 {% include section.html %}
 
