@@ -11,7 +11,7 @@ nav:
 
 ## Bioinformatics 
 
-## Translatoinal 
+## Translational 
 
 ## Single cell core facility
 
